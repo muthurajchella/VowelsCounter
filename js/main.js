@@ -24,3 +24,8 @@ if(count1>count2){
 }else{
     console.log("Number2 Have A More Vowels  ", count2)
 }
+
+
+
+
+
